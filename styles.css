@@ -1,0 +1,25 @@
+
+header{ color: black; text-align: center; 
+	font-family: "Brush Script MT", cursive; font-size: 90px;
+letter-spacing: 2px; word-spacing: 1px; height: 130px;
+background-image: url(kitty.png); background-size: 100% }
+
+body{ background-color:#FFDCE7; }
+
+h2{color:#E08DAC; font-family:'Courier New', monospace;}
+
+h3{ color: #B15577; font-family: 'Courier New', monospace;}
+
+p{ color: black; word-spacing: .5px }
+
+a:link{ color:#B15577; }
+a:visited{ color: black; }
+a:hover{ color:hotpink; }
+
+
+
+ul{ list-style-image: url(hello.png); }
+
+img{ border: 5px solid #E08DAC; }
+
+#right{background-color:whitesmoke; }

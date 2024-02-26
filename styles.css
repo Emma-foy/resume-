@@ -9,6 +9,7 @@ body{ background-color:#FFDCE7; }
 h2{color:#E08DAC; font-family:'Courier New', monospace;}
 
 h3{ color: #B15577; font-family: 'Courier New', monospace;}
+h3.contact{color: whitesmoke; }
 
 p{ color: black; word-spacing: .5px }
 
@@ -22,4 +23,4 @@ ul{ list-style-image: url(hello.png); }
 
 img{ border: 5px solid #E08DAC; }
 
-#right{background-color:whitesmoke; }
+#right{background-color: #E08DAC; }
